@@ -13,6 +13,3 @@ This project is a modern frontend boilerplate using:
 
 ### 1. Clone the Repo
 
-```bash
-git clone https://github.com/your-username/react-bootstrap-redux-starter.git
-cd react-bootstrap-redux-starter
