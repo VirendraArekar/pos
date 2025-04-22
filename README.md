@@ -12,4 +12,4 @@ This project is a modern frontend boilerplate using:
 ## 🛠️ Getting Started
 
 ### 1. Clone the Repo
-
+![alt text](image.png)
