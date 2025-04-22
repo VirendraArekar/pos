@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  .register-container {
+    max-width: 400px;
+    margin: 80px auto;
+  }
+  .card {
+    border-radius: 1.5rem;
+    box-shadow: 0 0 20px rgba(0,0,0,0.05);
+  }
+  .form-control {
+    border-radius: 1rem;
+  }
+  .btn-green {
+    background-color: #00c853;
+    color: #fff;
+    border-radius: 1rem;
+  }
+  .btn-green:hover {
+    background-color: #00b44c;
+  }
